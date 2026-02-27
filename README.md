@@ -15,53 +15,39 @@ TypeScript, Go, Ruby. Cloudflare for backends. Local-first everything. WebAI —
 </p>
 
 <table>
-<tr><td colspan="4"><b>Jan 2025 – Feb 2026</b></td></tr>
 <tr>
 <td align="center"><b>3M+</b><br>Lines shipped</td>
 <td align="center"><b>1.8M+</b><br>Net new lines</td>
 <td align="center"><b>924</b><br>Commits</td>
-<td align="center"><b>281</b><br>Pull requests</td>
-</tr>
-<tr>
+<td align="center"><b>281</b><br>PRs</td>
 <td align="center"><b>2,428</b><br>Contributions</td>
-<td align="center"><b>1,172</b><br>Private contributions</td>
-<td align="center"><b>18</b><br>Repos created</td>
-<td align="center"><b>20+</b><br>Org repos</td>
+<td align="center"><b>18</b><br>Repos</td>
 </tr>
 </table>
+
+<sub>Jan 2025 – Feb 2026. +1,172 private contributions.</sub>
 
 ---
 
 ## What I shipped
 
-### MCP-B / WebMCP
-
-- [**WebMCP**](https://github.com/MiguelsPizza/WebMCP) — browser-native MCP. 1k+ stars
-- [**npm-packages**](https://github.com/WebMCP-org/npm-packages) — `@mcp-b/*` monorepo: transports, React hooks, polyfill, SDK
-- [**chrome-devtools-quickstart**](https://github.com/WebMCP-org/chrome-devtools-quickstart) — Chrome DevTools MCP + WebMCP tools quickstart
-- [**webmcp-sh**](https://github.com/WebMCP-org/webmcp-sh) — MCP playground in the browser
-- [**mcp-ui-webmcp**](https://github.com/WebMCP-org/mcp-ui-webmcp) — chat UI wired to MCP servers
-- [**examples**](https://github.com/WebMCP-org/examples) — MCP-B reference implementations
-- [**mcp-b**](https://github.com/WebMCP-org/mcp-b) — core library
-- [**Char**](https://github.com/WebMCP-org/char-ai-saas) — embeddable AI agent with WebMCP browser tools
-- [**char-plugin**](https://github.com/WebMCP-org/char-plugin) — Claude Code plugin for Char
-- [**webmcp-userscripts**](https://github.com/WebMCP-org/webmcp-userscripts) — Tampermonkey scripts that add WebMCP to any site
-- [**char-scripts-template**](https://github.com/WebMCP-org/char-scripts-template) — user script starter
-- [**WebMCP-declarative-example**](https://github.com/WebMCP-org/WebMCP-declarative-example) — declarative tool registration (Go)
-- [**webmcp-agent**](https://github.com/WebMCP-org/webmcp-agent) — agent runtime
-- [**big-calendar**](https://github.com/WebMCP-org/big-calendar) — React calendar with WebMCP tool integration
-- [**ai-tinkerers-webmcp-demo**](https://github.com/WebMCP-org/ai-tinkerers-webmcp-demo) — in-browser RAG with Transformers.js + Dexie
-- [**docs**](https://github.com/WebMCP-org/docs) — docs site
-- [**web**](https://github.com/WebMCP-org/web) — demo app (Postgres, real-time sync)
-
-### Other
-
-- [**local-transcription-mcp**](https://github.com/MiguelsPizza/local-transcription-mcp--parakeet-tdt-0.6b-v2--) — on-device video/audio transcription over MCP (Parakeet TDT)
-- [**AgentReach**](https://github.com/MiguelsPizza/AgentReach) — RTB engine where services bid to fulfill agent intents
-- [**prompt-api-consumers**](https://github.com/MiguelsPizza/prompt-api-consumers) — Chrome Prompt API tooling
-- [**express-ts-rpc**](https://github.com/MiguelsPizza/express-ts-rpc) — type-safe RPC layer for Express
-- [**CanIRunThisLLMLocally**](https://github.com/MiguelsPizza/CanIRunThisLLMLocally) — hardware requirements calculator for LLMs
-- [**WebMCP-Quickstart**](https://github.com/MiguelsPizza/WebMCP-Quickstart) — quickstart template
+| Project | | Description |
+|---|---|---|
+| [**WebMCP**](https://github.com/MiguelsPizza/WebMCP) | 1k+ stars | Browser-native MCP |
+| [**npm-packages**](https://github.com/WebMCP-org/npm-packages) | `@mcp-b/*` | Transports, React hooks, polyfill, SDK |
+| [**chrome-devtools-quickstart**](https://github.com/WebMCP-org/chrome-devtools-quickstart) | | Chrome DevTools MCP + WebMCP tools |
+| [**webmcp-sh**](https://github.com/WebMCP-org/webmcp-sh) | | MCP playground in the browser |
+| [**mcp-ui-webmcp**](https://github.com/WebMCP-org/mcp-ui-webmcp) | | Chat UI wired to MCP servers |
+| [**examples**](https://github.com/WebMCP-org/examples) | | MCP-B reference implementations |
+| [**mcp-b**](https://github.com/WebMCP-org/mcp-b) | | Core library |
+| [**webmcp-userscripts**](https://github.com/WebMCP-org/webmcp-userscripts) | | Tampermonkey scripts that add WebMCP to any site |
+| [**char-plugin**](https://github.com/WebMCP-org/char-plugin) | | Claude Code plugin for Char |
+| [**big-calendar**](https://github.com/WebMCP-org/big-calendar) | | React calendar with WebMCP tool integration |
+| [**ai-tinkerers-demo**](https://github.com/WebMCP-org/ai-tinkerers-webmcp-demo) | | In-browser RAG with Transformers.js + Dexie |
+| [**local-transcription-mcp**](https://github.com/MiguelsPizza/local-transcription-mcp--parakeet-tdt-0.6b-v2--) | | On-device transcription over MCP (Parakeet TDT) |
+| [**prompt-api-consumers**](https://github.com/MiguelsPizza/prompt-api-consumers) | | Chrome Prompt API tooling |
+| [**express-ts-rpc**](https://github.com/MiguelsPizza/express-ts-rpc) | | Type-safe RPC layer for Express |
+| [**CanIRunThisLLMLocally**](https://github.com/MiguelsPizza/CanIRunThisLLMLocally) | | Hardware requirements calculator for LLMs |
 
 ---
 
