@@ -58,6 +58,8 @@ Repos created                   18
 
 ---
 
-**TypeScript** · **Go** · **Ruby** · React · Node.js · Cloudflare Workers · Chrome Extensions · Web Standards · Local-first · WebAI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,go,ruby,react,nodejs,cloudflare,docker,postgres&theme=dark&perline=8" />
+</p>
 
 [WebMCP-org](https://github.com/WebMCP-org) · [W3C WebExtensions CG](https://github.com/w3c/webextensions) · [mcp-b.ai](https://mcp-b.ai/) · [LinkedIn](https://linkedin.com/in/alex-nahas)
