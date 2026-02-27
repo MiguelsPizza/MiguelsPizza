@@ -2,23 +2,25 @@
 
 Founder of [**MCP-B**](https://github.com/WebMCP-org). W3C [WebExtensions CG](https://github.com/w3c/webextensions) contributor. Redmond, WA.
 
-Big into Local-First and WebAI. Claude Code & Codex enthusiast
+Big into Local-First and WebAI. Ship with Claude Code and Codex.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,go,ruby,react,nodejs,cloudflare,docker,postgres&theme=dark&perline=8" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Codex_CLI-412991?logo=openai&logoColor=fff" />
+</p>
+
 ---
 
-<table>
-<tr>
-<td align="center"><b>3M+</b><br>Lines shipped</td>
-<td align="center"><b>1.8M+</b><br>Net new lines</td>
-<td align="center"><b>20+</b><br>Repos</td>
-</tr>
-</table>
+![](https://img.shields.io/badge/3M+-Lines_shipped-blue?style=flat-square)
+![](https://img.shields.io/badge/1.8M+-Net_new_lines-blue?style=flat-square)
+![](https://img.shields.io/badge/20+-Repos-blue?style=flat-square)
+![](https://img.shields.io/badge/1,172-Private_contributions-grey?style=flat-square)
 
-<sub>Jan 2025 – Feb 2026. +1,172 private contributions.</sub>
+<sub>Jan 2025 – Feb 2026</sub>
 
 ---
 
