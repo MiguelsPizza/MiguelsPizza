@@ -35,8 +35,8 @@ Big into Local-First, Sync Engines and WebAI. Ship with Claude Code and Codex. C
 | [**webmcp-userscripts**](https://github.com/WebMCP-org/webmcp-userscripts) | | Tampermonkey scripts that add WebMCP to any site |
 | [**ai-tinkerers-demo**](https://github.com/WebMCP-org/ai-tinkerers-webmcp-demo) | | In-browser RAG with Transformers.js + Dexie |
 | [**local-transcription-mcp**](https://github.com/MiguelsPizza/local-transcription-mcp--parakeet-tdt-0.6b-v2--) | | On-device transcription over MCP (Parakeet TDT) |
-| [**prompt-api-consumers**](https://github.com/MiguelsPizza/prompt-api-consumers) | | Local first chatGPT Clone + and extensio that polyfills the pompt API with custom local models |
-| [**express-ts-rpc**](https://github.com/MiguelsPizza/express-ts-rpc) | | Type-safe RPC layer for Express |
+| [**prompt-api-consumers**](https://github.com/MiguelsPizza/prompt-api-consumers) | | Local first chatGPT Clone +  Extension that polyfills the pompt API with custom local models |
+| [**express-ts-rpc**](https://github.com/MiguelsPizza/express-ts-rpc) | | The DX and API of Hono for express project, compatible with the Hono Client for Fullstack typesafe RPC |
 | [**CanIRunThisLLMLocally**](https://github.com/MiguelsPizza/CanIRunThisLLMLocally) | | Hardware requirements calculator for models that run in browser |
 | [**chrome-devtools-quickstart**](https://github.com/WebMCP-org/chrome-devtools-quickstart) | | Chrome DevTools MCP Fork that let's you call WebMCP tools |
 
