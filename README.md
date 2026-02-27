@@ -1,8 +1,8 @@
 # Alex Nahas
 
-Founder of [**MCP-B**](https://github.com/WebMCP-org). W3C [WebExtensions CG](https://github.com/w3c/webextensions) contributor. Redmond, WA.
+Founder of [**MCP-B**](https://github.com/WebMCP-org). W3C [WebExtensions CG](https://github.com/w3c/webextensions) contributor. Redmond, WA. Agent Experience Specialist.
 
-Big into Local-First and WebAI. Ship with Claude Code and Codex. Coming around to TDD.
+Big into Local-First, Sync Engines and WebAI. Ship with Claude Code and Codex. Coming around to TDD.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,go,ruby,react,nodejs,cloudflare,docker,postgres&theme=dark&perline=8" />
