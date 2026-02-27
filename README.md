@@ -14,20 +14,21 @@ TypeScript, Go, Ruby. Cloudflare for backends. Local-first everything. WebAI —
   <img src="https://streak-stats.demolab.com/?user=MiguelsPizza&theme=dark&hide_border=true" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelsPizza&theme=tokyo-night&hide_border=true" width="100%" />
-
-```
-Jan 2025 – Feb 2026
-──────────────────────────────────────
-Lines shipped                3,000,000+
-Lines deleted                1,200,000+
-Net new lines                1,800,000+
-
-Contributions                2,428  (+ 1,172 private)
-Commits                        924
-Pull requests                  281
-Repos created                   18
-```
+<table>
+<tr><td colspan="4"><b>Jan 2025 – Feb 2026</b></td></tr>
+<tr>
+<td align="center"><b>3M+</b><br>Lines shipped</td>
+<td align="center"><b>1.8M+</b><br>Net new lines</td>
+<td align="center"><b>924</b><br>Commits</td>
+<td align="center"><b>281</b><br>Pull requests</td>
+</tr>
+<tr>
+<td align="center"><b>2,428</b><br>Contributions</td>
+<td align="center"><b>1,172</b><br>Private contributions</td>
+<td align="center"><b>18</b><br>Repos created</td>
+<td align="center"><b>20+</b><br>Org repos</td>
+</tr>
+</table>
 
 ---
 
