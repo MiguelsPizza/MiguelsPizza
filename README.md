@@ -7,11 +7,6 @@ TypeScript, Go, Ruby. Cloudflare for backends. Local-first everything. WebAI —
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelsPizza&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelsPizza&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=MiguelsPizza&theme=dark&hide_border=true" />
 </p>
 
