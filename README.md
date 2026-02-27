@@ -4,11 +4,17 @@ Founder of [**MCP-B**](https://github.com/WebMCP-org). W3C [WebExtensions CG](ht
 
 TypeScript, Go, Ruby. Cloudflare for backends. Local-first everything. WebAI — running models and tools inside the browser is my thing.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,go,ruby,react,nodejs,cloudflare,docker,postgres&theme=dark&perline=8" />
+</p>
+
 ---
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MiguelsPizza&theme=dark&hide_border=true" />
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelsPizza&theme=tokyo-night&hide_border=true" width="100%" />
 
 ```
 Jan 2025 – Feb 2026
@@ -57,9 +63,5 @@ Repos created                   18
 - [**WebMCP-Quickstart**](https://github.com/MiguelsPizza/WebMCP-Quickstart) — quickstart template
 
 ---
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,ruby,react,nodejs,cloudflare,docker,postgres&theme=dark&perline=8" />
-</p>
 
 [WebMCP-org](https://github.com/WebMCP-org) · [W3C WebExtensions CG](https://github.com/w3c/webextensions) · [mcp-b.ai](https://mcp-b.ai/) · [LinkedIn](https://linkedin.com/in/alex-nahas)
