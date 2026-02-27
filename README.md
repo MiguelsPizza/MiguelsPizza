@@ -2,7 +2,7 @@
 
 Founder of [**MCP-B**](https://github.com/WebMCP-org). W3C [WebExtensions CG](https://github.com/w3c/webextensions) contributor. Redmond, WA.
 
-Big into Local-First and WebAI. Ship with Claude Code and Codex.
+Big into Local-First and WebAI. Ship with Claude Code and Codex. Coming around to TDD.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,go,ruby,react,nodejs,cloudflare,docker,postgres&theme=dark&perline=8" />
@@ -28,16 +28,16 @@ Big into Local-First and WebAI. Ship with Claude Code and Codex.
 
 | Project | | Description |
 |---|---|---|
-| [**WebMCP**](https://github.com/MiguelsPizza/WebMCP) | 1k+ stars | Browser-native MCP |
+| [**WebMCP**](https://github.com/MiguelsPizza/WebMCP) | 1k+ stars | Browser-native MCP via a Chrome Extension |
 | [**npm-packages**](https://github.com/WebMCP-org/npm-packages) | `@mcp-b/*` | Transports, React hooks, polyfill, SDK |
 | [**webmcp-sh**](https://github.com/WebMCP-org/webmcp-sh) | | MCP playground in the browser |
-| [**mcp-ui-webmcp**](https://github.com/WebMCP-org/mcp-ui-webmcp) | | MCP-APPs + WebMCP |
+| [**mcp-ui-webmcp**](https://github.com/WebMCP-org/mcp-ui-webmcp) | | MCP-Apps + WebMCP |
 | [**webmcp-userscripts**](https://github.com/WebMCP-org/webmcp-userscripts) | | Tampermonkey scripts that add WebMCP to any site |
 | [**ai-tinkerers-demo**](https://github.com/WebMCP-org/ai-tinkerers-webmcp-demo) | | In-browser RAG with Transformers.js + Dexie |
 | [**local-transcription-mcp**](https://github.com/MiguelsPizza/local-transcription-mcp--parakeet-tdt-0.6b-v2--) | | On-device transcription over MCP (Parakeet TDT) |
-| [**prompt-api-consumers**](https://github.com/MiguelsPizza/prompt-api-consumers) | | Chrome Prompt API tooling |
+| [**prompt-api-consumers**](https://github.com/MiguelsPizza/prompt-api-consumers) | | Local first chatGPT Clone + and extensio that polyfills the pompt API with custom local models |
 | [**express-ts-rpc**](https://github.com/MiguelsPizza/express-ts-rpc) | | Type-safe RPC layer for Express |
-| [**CanIRunThisLLMLocally**](https://github.com/MiguelsPizza/CanIRunThisLLMLocally) | | Hardware requirements calculator for LLMs |
+| [**CanIRunThisLLMLocally**](https://github.com/MiguelsPizza/CanIRunThisLLMLocally) | | Hardware requirements calculator for models that run in browser |
 | [**chrome-devtools-quickstart**](https://github.com/WebMCP-org/chrome-devtools-quickstart) | | Chrome DevTools MCP Fork that let's you call WebMCP tools |
 
 
