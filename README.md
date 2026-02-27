@@ -38,8 +38,12 @@ The core platform — a web standard for letting AI agents use tools directly in
 ## By the numbers
 
 ```
-Contributions (Jan 2025 – Feb 2026)
-────────────────────────────────────
+Jan 2025 – Feb 2026
+──────────────────────────────────────────
+Lines of code added          3,000,000+
+Lines of code deleted        1,200,000+
+Net new lines shipped        1,800,000+
+──────────────────────────────────────────
 Total contributions        2,428  (+ 1,172 private)
 Commits                      924
 Pull requests                281
