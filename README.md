@@ -1,6 +1,6 @@
 # Alex Nahas
 
-Founder of [**MCP-B**](https://github.com/WebMCP-org). W3C [WebExtensions CG](https://github.com/w3c/webextensions) contributor. Redmond, WA. Agent Experience Specialist.
+Founder of [**MCP-B**](https://github.com/WebMCP-org)
 
 Big into Local-First, Sync Engines and WebAI.
 
